@@ -1,9 +1,5 @@
 # AI-Based Triage for Kidney Stone Patients
 
-**Author:** Umar Shadab Butt  
-**Degree:** MSc Data Science and Analytics, Cardiff University  
----
-
 ## Overview
 
 Machine learning pipeline to predict clinical triage decisions for kidney stone patients using patient-reported outcomes (PROMs) and clinical data.
