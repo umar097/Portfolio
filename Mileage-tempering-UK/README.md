@@ -95,6 +95,7 @@ DuckDB · dbt (dbt-duckdb) · SQL · Power BI Desktop
 
 ```
 mot_clocking/
+├── Dashboard
 ├── models/
 │   ├── stg_tests.sql
 │   ├── int_mileage_seq.sql
